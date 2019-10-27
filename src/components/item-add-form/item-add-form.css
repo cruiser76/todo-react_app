@@ -1,0 +1,10 @@
+.item-add-button button, .item-add-button input {
+  margin-top: 10px;
+  
+}
+.btn {
+  width: 35%;
+}
+.item-add-button input {
+  margin-right: 3px;
+}
